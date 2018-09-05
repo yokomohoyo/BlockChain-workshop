@@ -1,0 +1,5 @@
+curl http://localhost:5000/mine
+
+curl -X POST -d @new.json http://localhost:5000/transactions/new -H "Content-Type: application/json"
+
+
