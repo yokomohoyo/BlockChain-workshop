@@ -1,0 +1,40 @@
+{“npi”:“123456",“provider”: {
+       “taxonomies”: [
+           {
+               “state”: “GA”,
+               “primary”: true,
+               “license”: “ABC1234”,
+               “desc”: “Internal Medicine Hematology & Oncology”
+           }
+       ],
+       “NPI”:“123456”,
+       “addresses”: [
+           {
+               “city”: “Some city”,
+               “address_2”: “SUITE 201",
+               “telephone_number”: “111-111-1111",
+               “fax_number”: “”,
+               “state”: “GA”,
+               “postal_code”: “11111",
+               “address_1”: “123 Some street,“,
+               “country_code”: “US”,
+               “country_name”: “United States”,
+               “address_type”: “DOM”,
+               “address_purpose”: “LOCATION”
+           }
+       ],
+       “basic”: {
+           “status”: “A”,
+           “credential”: “M.D.“,
+           “first_name”: “ABC1",
+           “last_name”: “LAST1",
+           “last_updated”: “2013-04-18",
+           “name”: “LAST1 ABC1",
+           “gender”: “M”,
+           “sole_proprietor”: “NO”,
+           “name_prefix”: “DR.“,
+           “enumeration_date”: “2006-05-12"
+       },
+       “enumeration_type”: “NPI-1"
+   }
+}
